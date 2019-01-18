@@ -6,6 +6,11 @@ A container for SObjects so that they can be retrieved (indexed) by one or more 
 
 See also https://nebulaconsulting.co.uk/insights/sobjectindex-the-class-you-can-use-everywhere
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=paull10au&repo=nebula-SObjectIndex&ref=master">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## Licence
 
 MIT License
